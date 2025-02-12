@@ -16,7 +16,7 @@ Subtask-2:
 
 Find all the even numbers from 78 to 98.
  */
-
+ 
 let i=78;
 while(i<=98){
     console.log(i)
